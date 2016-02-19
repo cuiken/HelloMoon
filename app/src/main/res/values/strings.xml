@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">HelloMoon</string>
     <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Setting</string>
     <string name="hellomoon_play">Play</string>
     <string name="hellomoon_stop">Stop</string>
     <string name="hellomoon_pause">Pause</string>
